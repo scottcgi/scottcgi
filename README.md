@@ -1,11 +1,5 @@
 "One day, I realized all the dumb, selfish things people do... it's not our fault. No one designed us. We're just an accident, Harold. We're just bad code. But the thing you built... It's perfect. Rational. Beautiful. By design."——Root
 
-
-[![scottcgi's github stats](https://github-readme-stats.vercel.app/api?username=scottcgi&show_icons=true&count_private=true)](#)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scottcgi&langs_count=10&layout=compact)](#)
-
-
 <!--
 **scottcgi/scottcgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
