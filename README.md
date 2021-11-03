@@ -1,4 +1,4 @@
-"One day, I realized all the dumb, selfish things people do... it's not our fault. No one designed us. We're just an accident, Harold. We're just bad code. But the thing you built... It's perfect. Rational. Beautiful. By design." - Root (Person of Interest)
+"One day, I realized all the dumb, selfish things people do... it's not our fault. No one designed us. We're just an accident, Harold. We're just bad code. But the thing you built... It's perfect. Rational. Beautiful. By design." — Root (Person of Interest)
 
 <!--
 **scottcgi/scottcgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
